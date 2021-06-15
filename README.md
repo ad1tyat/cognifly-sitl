@@ -1,6 +1,6 @@
 # cognifly-sitl
 
-Trying to develop a SITL for the CogniFly Drone based on pre-existing SITLs
+Trying to develop a SITL for the [CogniFly Drone](https://thecognifly.github.io/) based on pre-existing SITLs
 
 ## Setup
 1. Run 
